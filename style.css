@@ -1,0 +1,28 @@
+.satu {font-style:italic;
+	font-family: cursive;
+	background-color:#b3ffff
+;
+	color: #b32d00;
+	text-align: center;
+	font-size: 50px
+}
+.ME{width: 300px;
+	display:block;
+	margin-left: auto;
+	margin-right: auto
+}
+body{
+	background-color: #990033;
+}
+.p1{
+	color: #990000;
+	background-color:  #ffe6ff;
+	font-family: Courier New ;
+	font-size: 30px
+}
+.ttl{
+	color:#ccff33;
+	border-style:dotted;color:white;
+	font-family: monospace;
+	font-size: 40px
+}
